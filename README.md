@@ -91,4 +91,4 @@ Feel free to fork this repository and submit pull requests for any improvements!
 
 ---
 
-**Made with ❤️ by [armancodes0](https://github.com/armancodes0)**
+**Made by [armancodes0](https://github.com/armancodes0)**
